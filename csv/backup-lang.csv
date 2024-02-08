@@ -1,0 +1,268 @@
+keys,en,ne
+welcome,Welcome,स्वागत छ 
+hiUser,Hi {name}!,नमस्ते {name}!
+enterYourLoginDetails,Enter your details to login,तपाईंको लगइन विवरणहरू प्रविष्ट गर्नुहोस्
+mobile_number,Mobile number ,मोबाइल नम्बर
+next,Next ,अर्को
+skip,Skip ,छोड्नुहोस्
+iAlreadyHaveAnAccount,I already have an account ,मसँग पहिले नै खाता छ
+register,Register ,दर्ता गर्नुहोस्
+password,Password ,पासवर्ड
+or,OR,अथवा
+forgetPassword,Forget password,पासवर्ड बिर्सनुभयो
+rememberMe,Remember me ,मलाई सम्झनुहोस्
+login,Login,लग - इन
+fingerprintLogin,Fingerprint login ,फिंगरप्रिन्ट लगइन
+dont_have_an_account,Don't have an account ,खाता छैन
+account_locked,Account locked ,खाता बन्द 
+your_account_has_been_locked,Your account has been locked due to many invalid attempt. please contact us for reactivate your account,तपाईंको खाता धेरै अवैध प्रयासको कारण लक गरिएको छ। कृपया तपाईंको खाता पुनः सक्रिय गर्न हामीलाई सम्पर्क गर्नुहोस्
+contact,Contact ,सम्पर्क गर्नुहोस्
+error,Error,त्रुटि
+incorrect_mobile_number_or_password,Incorrect mobile number or password,गलत मोबाइल नम्बर वा पासवर्ड
+remaining_attempt,Remaining attempt,बाकी प्रयास
+try_again,Try again,पुन:प्रयास गर्नुहोस्
+confirm_login_with_fingerprint,confirm login with fingerprint ,फिंगरप्रिन्टको साथ लगइन पुष्टि गर्नुहोस्
+touch_the_fingerprint_sensor,Touch the fingerprint sensor ,फिंगरप्रिन्ट सेन्सर छुनुहोस्
+use_PIN,use PIN,पिन प्रयोग गर्नुहोस्
+did_you_forget_your_password,Did you forget your password ?,के तपाईंले आफ्नो पासवर्ड बिर्सनुभयो?
+enter_your_mobile_number,Enter the mobile number you've used to register with us and we will send you the OTP verification code shortly,तपाईंले दर्ता गर्न प्रयोग गर्नुभएको मोबाइल नम्बर प्रविष्ट गर्नुहोस् र हामी तपाईंलाई छिट्टै OTP प्रमाणीकरण कोड पठाउने छौँ।
+get_code,Get code ,कोड प्राप्त गर्नुहोस्
+otp_verification,OTP verification,ओटीपी प्रमाणिकरण
+we_have_sent_an_OTP,we have sent an OTP code to your mobile number ,हामीले तपाईंको मोबाइल नम्बरमा OTP कोड पठाएका छौं
+didnt_receive_code,Didn't receive code? request again in ,कोड प्राप्त गरेन? फेरि अनुरोध गर्नुहोस्
+set_your_new_password,set your new password ,कोड प्राप्त गर्नुभएन? पुन:अनुरोध गर्नुहोस्
+this_password_is_used_for_account_login,This password is used for your account login only,यो पासवर्ड तपाईको खाता लगइनको लागि मात्र प्रयोग गरिन्छ
+new_password,New password,नया पासवर्ड
+retype_password,Re-Type password,पासवर्ड पुन: लेख्नुहोस
+verify,verify ,प्रमाणित गर्नुहोस्
+save,save ,सुरक्षित गर्नुहोस्
+success,success,सफल भयो 
+you_have_change_your_password,you have successfully change your Namaste Pay password ,तपाईंले सफलतापूर्वक आफ्नो नमस्ते पे पासवर्ड परिवर्तन गर्नुभयो
+login_to_resume,login to resume your journey,तपाईंको यात्रा पुनः सुरु गर्न लगईन गर्नुहोस्
+log_back_in,log back in,पुन:लगइन गर्नुहोस्
+choose_from_saved_account_or_create_one,choose from saved account or create one,बचत गरिएको खाताबाट छनौट गर्नुहोस् वा सिर्जना गर्नुहोस्
+login_another_account,login another account ,अर्को खाता लगइन गर्नुहोस्
+create_account,create account,खाता सिर्जना गर्नुहोस्
+enter_your_number,Enter your mobile number to get started ,सुरू गर्न तपाईंको मोबाइल नम्बर प्रविष्ट गर्नुहोस्
+referrer_code,Referrer code (optional),रेफरर कोड (वैकल्पिक)
+i_accept_the_terms_and_conditions,I accept the terms & conditions and privacy policy,"म नियम, सर्त र गोपनीयता नीति स्वीकार गर्छु"
+create_account,create ,सिर्जना गर्नुहोस्
+i_already_have_an_account_login,I already have an account? Login,मसँग पहिले नै खाता छ? लग - इन गर्नुहोस्
+incorrect_mobile_number,Incorrect mobile number ,गलत मोबाइल नम्बर
+personal_details,Personal Details,व्यक्तिगत विवरण
+fill_your_personal_details,Fill your personal details ,तपाईंको व्यक्तिगत विवरणहरू भर्नुहोस्
+first_name,First name ,पहिलो नाम
+middle_name,Middle name(optional),मध्य नाम (वैकल्पिक)
+last_name,Last name,थर
+date_of_birth,Date of birth,जन्म मिति
+gender,Gender,लिङ्ग
+select_your_gender,Select your gender,आफ्नो लिङ्ग चयन गर्नुहोस्
+male,Male ,पुरुष
+female,Female,स्त्री
+others,Others,अन्य 
+address_details,Address Details ,ठेगाना विवरण
+fill_your_address_details,Fill your address details ,तपाईंको ठेगाना विवरणहरू भर्नुहोस्
+province,Province,प्रदेश
+district,District ,जिल्ला
+municipality,Municipality ,नगरपालिका
+ward_no,Ward no.,वडा नं.
+current_address,Current Address(optional),हालको ठेगाना (वैकल्पिक)
+set_your_password,Set your password,तपाईंको पासवर्ड सेट गर्नुहोस्
+wow_you_have_created_your_namaste_pay_account,wow! you have successfully created your Namaste pay account ,वाह! तपाईंले सफलतापूर्वक आफ्नो नमस्ते पे खाता सिर्जना गर्नुभयो
+lets_start_your_journey,Let's start your journey ,तपाईंको यात्रा सुरु गरौं
+wallet_balance,wallet balance ,वालेट ब्यालेन्स
+quick_access,Quick access,चाँडै पहुँच
+available_services,Available services,उपलब्ध सेवाहरू
+ticketing_and_events_services,Ticketing and events services ,टिकट र समारोह सेवाहरू
+set_up_your_PIN,set up your PIN,आफ्नो पिन सेट अप गर्नुहोस्
+set_up,set up ,स्थापित गर्नु
+service_search,service search ,सेवाको खोजी
+bank_search,bank search ,बैंक खोज
+select_bank,select bank,बैंक चयन गर्नुहोस्
+savingAccount,saving account ,बचत खाता
+kycUnverified,KYC unverified,KYC अप्रमाणित
+lastLogin,last login,अन्तिम लगइन/ पछिल्लो लगइन
+yourKYCIsPending,Your KYC is pending,तपाईंको KYC विचाराधीन छ
+upgradeYourAccount,Upgrade your account to unlock additional benefits ,अतिरिक्त लाभहरू अनलक गर्न आफ्नो खाता अपग्रेड गर्नुहोस्
+addNominee,Add nominee,Nomineee थप्नुहोस्
+generalSettings,General settings,सामान्य सेटिङहरू
+chooseLanguageTheme,"Choose language,theme and notification setting","भाषा, विषयवस्तु र सूचना सेटिंग छनौट गर्नुहोस्"
+securitySettings,security settings ,सुरक्षा सेटिङहरू
+changePinAndFingerprint,change PIN and fingerprint authentication ,पिन र फिंगरप्रिन्ट प्रमाणीकरण परिवर्तन गर्नुहोस्
+deviceAndCredentials,Device and credentials ,उपकरण र प्रमाणहरू
+manageYourDeviceCredentials,Manage your device credentials,तपाईंको उपकरण प्रमाणहरू व्यवस्थापन गर्नुहोस्
+kycVerified,KYC verified,KYC प्रमाणित
+addThirdPerson,add a third person of your account in case of unexpected events,अप्रत्याशित घटनाहरूको मामलामा तपाईंको खाताको तेस्रो व्यक्ति थप्नुहोस्
+viewNominee,View nominee,मनोनित व्यक्ति हेर्नुहोस्
+viewYourNominee,view your nominee details,मनोनित व्यक्तिको बिस्तृत विवरण हेर्नुहोस
+kycDocument,KYC document,KYC कागजात
+enterValidDetails,Enter valid details and upload valid documents to verify KYC details,वैध विवरणहरू प्रविष्ट गर्नुहोस् र KYC विवरणहरू प्रमाणित गर्न वैध कागजातहरू अपलोड गर्नुहोस्
+selectDocumentType,select document type,कागजात प्रकार चयन गर्नुहोस्
+documentType,Document type,कागजात प्रकार
+drivingLicense,Driving license,सवारीचालक अनुमतिपत्र
+idNumber,ID number,आईडी नम्बर
+uploadDocument,Upload document,कागजात अपलोड गर्नुहोस्
+supportsPng,"support png, jpeg, pdf (max size 2mb)","समर्थन PNG, JPEF, PDF (अधिकतम आकार 2MB)"
+frontSide,Front side ,अगाडिको भाग
+backSide,Back side,पछाडिको भाग
+kycNotVerifiedYet,KYC not verified yet,KYC अझै प्रमाणित भएको छैन
+fillTheKycDetails,Fill the KYC details to be the verified customer,प्रमाणित ग्राहक हुन KYC विवरणहरू भर्नुहोस्
+viewBenefits,view benefits ,लाभहरू हेर्नुहोस्
+relationshipDetails,Relationship details,सम्बन्ध विवरण
+mothersName,Mother's name,आमाको नाम
+fathersName,Father's name,बुवाको नाम
+grandfathersName,Grandfather's name,हजुरबुवाको नाम
+selectDocumentType,Passport,राहधानी
+nationalId,National ID,राष्ट्रिय परिचयपत्र
+panCard,PAN card,प्यान कार्ड
+citizenship,Citizenship ,नागरिकता
+government,Government ID,सरकारी परिचयपत्र
+voterCard,Voter Card,मतदाता कार्ड
+issueDate,Issue Date,जारी मिति
+choosePhoto,choose photo ,फोटो छनौट गर्नुहोस्
+gallery,Gallery,ग्यालेरी
+kycVerification,KYC verification in-progress,KYC प्रमाणीकरण प्रक्रियामा छ
+weAreCurrentlyVerifying,"we are currently verifying your details, we will reach out to you within 12 hours","हामी हाल तपाईंको विवरणहरू प्रमाणीकरण गर्दैछौं, हामी १२ घण्टा भित्र तपाईंसँग सम्पर्क गर्नेछौं"
+kycVerificationDeclined,KYC verification declined,KYC प्रमाणीकरण अस्वीकृत भयो
+pleaseMakeSureThat,please make sure that all the details are filled out as per requirements ,कृपया सबै विवरणहरू आवश्यकता अनुसार भरिएको छ छैन सुनिश्चित गर्नुहोस्
+kycDetails,KYC Details,KYC विवरण
+fullName,Full name,पुरा नाम
+email,Email ID,इमेल आईडी
+address,Address,ठेगाना
+documentDetails,Document details,कागजात विवरण
+profilePicture,Profile Picture,प्रोफाइल तस्वीर
+drivingLicenseIdNumber,Driving license ID number,सवारीचालक अनुमतिपत्र आईडी नम्बर
+fillTheInformation,Fill the informantion to add nominee,मनोनित थप्न जानकारी भर्नुहोस्
+verifyMobileNumber,Verify mobile number & save,मोबाइल नम्बर प्रमाणित गरि सुरक्षित राख्नुहोस् 
+nomineeVerification,Nominee verification,मनोनित प्रमाणिकरण
+weHaveSentAnOtp,we have sent an OTP code to your mobile number ,हामीले तपाईंको मोबाइल नम्बरमा OTP कोड पठाएका छौं
+theNomineeDetailsHasSaved,The nominee details has been successfully saved,मनोनीत विवरण सफलतापूर्वक बचत गरिएको छ
+ok,Ok,ठिक छ
+edit,Edit,सम्पादन गर्नुहोस्
+language,Language,भाषा
+theme,Theme,थीम
+chooseEnglishOrNepaliLanguage,Choose english or nepali language,अंग्रेजी वा नेपाली भाषा छनौट गर्नुहोस्
+chooseDifferentTheme,choose different theme Dark or Light,फरक विषयवस्तु: अँध्यारो वा उज्जालो छान्नुहोस्
+layout,Layout,ढाँचा
+chooseCarauselOrGrid,choose carousel or grid,carouse वा grid छनौट गर्नुहोस्
+manageNotifications,Manage notifications based on your preference ,तपाईंको प्राथमिकतामा आधारित सूचनाहरू प्रबन्ध गर्नुहोस्
+selectLanguage,Select Language,भाषा छनोट गर्नुहोस्
+selectTheme,Select Theme,थीम चयन गर्नुहोस्
+light,Light,उज्यालो
+dark,Dark,अध्यारो
+systemDefault,System default,पुर्वनिर्धारित सिस्टम्
+selectLayout,Select Layout,लेआउट चयन गर्नुहोस्
+carousel,Carousel,क्यारोसेल
+grid,Grid,ग्रिड
+changePin,Change PIN,PIN परिवर्तन गर्नुहोस्
+fingerprintAuthentication,Fingerprint Authentication,फिंगरप्रिन्ट प्रमाणीकरण
+currentlyOff,Currently OFF,हाल बन्द छ
+faceUnlock,Face unlock,मुहार आकृतिले खोल्न
+changePassword,Change password,पासवर्ड परिवर्तन गर्नुहोस्
+usedForLoginOnly,Used for login only,लगइनको लागि मात्र प्रयोग
+usedForPaymentVerificationOnly,Used for payment verification only,भुक्तानी प्रमाणिकरणको लागि मात्र प्रयोग
+usedForBoth,Used for both login and payment verification,लगइन र भुक्तानी प्रमाणिकरण दुवैको लागि प्रयोग
+usedForLogin,Used for Login,लगइनको लागि प्रयोग
+usedForPaymentVerification,Used for payment verification,भुक्तान प्रमाणिकरणको लागि प्रयोग गरियो
+enterYourPin,Enter your current 4 digit PIN,तपाईंको हालको ४ अंकको PIN प्रविष्ट गर्नुहोस्
+onceYouChangedYourPin,Once you changed your PIN you will be logged out from all your logged in devices,एकचोटि तपाईंले आफ्नो PIN परिवर्तन गरेपछि तपाईं आफ्नो लगइन भएका सबै यन्त्रहरूबाट लगआउट हुनुहुनेछ
+confirmYourPin,Confirm your PIN,तपाईंको PIN पुष्टि गर्नुहोस्
+confirmYourNewPin,Confirm your new PIN,तपाईंको नयाँ पिन पुष्टि गर्नुहोस्
+successfullyPinChange,Successfully PIN change,PIN सफलतापूर्वक परिवर्तन भयो
+allNamastePayNotifications,"All ""namaste pay"" notifications ","सबै ""NAMASTE PAY "" का सूचनाहरू"
+conversations,conversations,कुराकानीहरू
+other,other,अन्य 
+systemDefaultChannel,System default channel,प्रणाली पूर्वनिर्धारित च्यानल
+miscellaneous,Miscellaneous,विविघ
+notificationPerDay,-1 notification per day,प्रति दिन 1 सूचना
+advanced,Advanced,उन्नत
+allowNotificationDot,Allow notification dot,सूचना अनुमति दिनुहोस्
+forgetPin,Forget PIN?,पिन बिर्सनुभयो ?
+profile,Profile,प्रोफाइल
+myQrCode,My QR Code,मेरो क्यूआर कोड
+linkMyBankAc,Link My Bank Account,मेरो बैंक खाता लिङ्क गर्नुहोस्
+askYourFriendsToScan,Ask your friends to scan the QR and receive money to your wallet,तपाइँका साथीहरूलाई क्यूआर स्क्यान गर्न र तपाइँको वालेटमा पैसा प्राप्त गर्न अनुरोध गर्नुहोस्
+share,Share,शेयर
+generateDynamicQR,Generate Dynamic QR ,Dynamic QR तयार गर्नुहोस्
+scanAndPay,Scan/Pay,स्क्यान/भुक्तानी
+paymentMethod,Payment Method,भुक्तानी विधि
+saveAllYourPayment,Save all your payment method for faster processing,छिटो प्रशोधनको लागि आफ्नो सबै भुक्तानी विधि सुरक्षित गर्नुहोस्
+fillTheInformation,Fill the information to link bank account,बैंक खाता लिङ्क गर्न जानकारी भर्नुहोस्
+yourDetailsMustMatch,Your details must match with bank records ,तपाईंको विवरणहरू बैंक रेकर्डसँग मेल खानुपर्छ
+accountName,Account Name,खाताको नाम
+accountNumber,Account Number,खाता नम्बर
+noBankAcToShow,No bank account to show,देखाउनको लागि कुनै बैंक खाता छैन
+saveYourPaymentMethods,Save your payment methods,छिटो प्रशोधनको लागि आफ्नो सबै भुक्तानी विधि सुरक्षित गर्नुहोस्
+linkBankAc,Link Bank Account,बैंक खाता लिङ्क गर्नुहोस्
+paymentMethods,Payment Methods,भुक्तानी विधिहरू
+noDataToShow,No data to show,देखाउन को लागी कुनै डाटा छैन
+checkYourPendingTransactions,Check your Pending Transactions,आफ्नो अपुर्ण कारोबार जाँच गर्नुहोस्
+filter,Filter,फिल्टर
+pendingTransaction,Pending Transaction,अपुर्ण कारोबार
+manageYourAccountSettings,"Manage your account, settings and device credientials","आफ्नो खाता, सेटिङहरू र उपकरण प्रमाणहरू व्यवस्थापन गर्नुहोस्"
+viewYourKYCInfo,view your KYC information,आफ्नो KYC जानकारी हेर्नुहोस्
+chooseThemeAndNotification,Choose theme and notification settings,थीम तथा सूचना सेटिङहरू छान्नुहोस्
+theme,Theme,थीम 
+chooseDifferentTheme,Choose different theme Dark or Light,उज्यालो वा अँध्यारो फरक थीम छान्नुहोस
+notifications,Notifications,सूचनाहरू
+manageNotificationsBased,Manage notifications based on your preferences,तपाईंको प्राथमिकताहरूमा आधारित सूचनाहरू व्यवस्थापन गर्नुहोस्
+light,Light,उज्यालो
+dark,Dark,अँध्यारो
+systemDefault,System Default,प्रणाली पूर्वनिर्धारित
+securitySettings,Security Settings,सुरक्षा सेटिङहरू
+changePINAndFingerprint,Change PIN and fingerprint authenciation,PIN र फिंगरप्रिन्ट प्रमाणीकरण परिवर्तन गर्नुहोस्
+currentlyOff,currently off,हाल बन्द
+deviceAndCredentials,Device and credentials,यन्त्र र प्रमाणहरू
+devicesThatLogged,Devices that logged in your Namaste Account,तपाईंको नमस्ते खातामा लगइन भएका यन्त्रहरू
+lastLogin,last Login,पछिल्लो लगइन
+deleteMyAccount,Delete my account,मेरो खाता रद्द गर्नुहोस्
+manageYourDeviceCredentials,Manage your device credentials,आफ्नो यन्त्र प्रमाणहरू व्यवस्थापन गर्नुहोस्
+selectTheme,Select theme,थीम चयन गर्नुहोस्
+generalSettings,General settings,सामान्य सेटिङहरू
+accountAndSettings,Account and Settings,खाता र सेटिङहरू
+referAndEarn,Refer and Earn,रिफर गर्नुहोस् र कमाउनुहोस्
+referYourFriend,Refer your friend and earn rewards,आफ्नो साथीलाई रिफर गर्नुहोस र पुरस्कार जित्नुहोस्
+yourReferralID,your referral ID,तपाईंको रेफरल आईडी
+shareAndInvite,share and invite ,शेयर तथा निमन्त्रणा
+cashbackAndOffers,Cashback and Offers,क्यासब्याक तथा अफरहरु/ प्रस्तावहरू
+viewCashbackAndOffers,View cashback and offers,क्यासब्याक र प्रस्तावहरू/अफरहरु  हेर्नुहोस्
+helpAndSupport,Help and Support,मद्दत तथा सहयोग
+logout,Logout,लगआउट 
+version,Version,संस्करण
+viewKYCDetails,View KYC Details,KYC विवरणहरू हेर्नुहोस्
+linkAnotherBankAc,Link Another Bank Account,अर्को बैंक खाता लिङ्क गर्नुहोस्
+removeAc,Remove account,खाता हटाउनुहोस्
+searchBank,Search Bank,बैंक छान्नुहोस् 
+account,Account,खाता
+namastePayAccountCredential,Namaste Pay account credential,नमस्ते पे खाता प्रमाण पत्र
+deleteMyAccount,Delete my account,मेरो खाता रद्द गर्नुहोस्
+aboutUs,About Us,हाम्रोबारे
+faq,FAQ’s,बारम्बार सोधिने प्रश्नहरू
+support,Support,समर्थन
+feedback,Feedback,प्रतिक्रिया
+tAndC,T&C,नियम र सर्त
+quickTips,Quick Tips,द्रुत सुझावहरू
+allTheServiceName,All the Services name(If Applicable),सबै सेवाहरूको नाम (यदि लागू भएमा)
+searchList,Search List,खोज सूची
+customize,Customize,कस्टमाईज गर्नुहोस्
+customizeYourQuickAccess,Customize your Quick Access,क्विक ऐक्सेसलाई कस्टमाईज गर्नुहोस्
+reset,Reset,रिसेट गर्नुहोस्
+recommendedServices,Recommended Services,सिफारिस गरिएका सेवाहरू
+popularServices,Popular Services,लोकप्रिय सेवाहरू
+attention,Attention,सतर्क
+doYouWantTologout,Do you want to logout?,के तपाई लगआउट गर्न चाहनुहुन्छ?
+cancel,Cancel,रद्द गर्नुहोस्
+marketPlace,Market Place,हाटबजार
+loyalty,Loyalty,वफादारी
+home,Home,
+viewAll,View All,सबै हेर्नुहोस्
+statement,Statement,
+myOrders,My Orders,
+amount,Amount,
+generate,Generate,
+scanQrCodeToSend,"Scan QR Code to send,pay",
+linkBankAcForFast,Link bank accounts for fastest payment processing,
+linkedBankAc,Linked Bank Account,
+pin,PIN,पिन
+documentNumber,Document number,
+merchants,Merchants,
