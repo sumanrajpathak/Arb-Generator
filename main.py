@@ -1,9 +1,10 @@
-import os
 import csv
 import json
-from pathlib import Path
-from config import CSV_FILE, ARB_DIR, ARB_FILE_PREFIX, ARB_FILE_EXT
+import os
 import re
+from pathlib import Path
+
+from config import ARB_DIR, ARB_FILE_EXT, ARB_FILE_PREFIX, CSV_FILE
 
 # Convert ARB_DIR to a Path object directly in the config, if not already.
 ARB_DIR = Path(ARB_DIR)
@@ -60,6 +61,7 @@ def process_csv():
 
             for row in reader:
                 key = row[0]
+               
                 for lang, value in zip(lang_codes, row[1:]):
                     dynamic_content = extract_dynamic_value(value)
                     if dynamic_content:
